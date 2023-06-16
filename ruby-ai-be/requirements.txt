@@ -1,0 +1,6 @@
+Flask
+Flask-cors
+openai
+Flask-SQLAlchemy
+pymysql
+cryptography
